@@ -1,0 +1,17 @@
+./datasets/RT/video1/frame1.jpg
+./datasets/RT/video1/frame2.jpg
+./datasets/RT/video1/frame3.jpg
+./datasets/RT/video1/frame4.jpg
+./datasets/RT/video1/frame5.jpg
+./datasets/RT/video1/frame6.jpg
+./datasets/RT/video1/frame7.jpg
+./datasets/RT/video2/frame1.jpg
+./datasets/RT/video2/frame2.jpg
+./datasets/RT/video2/frame3.jpg
+./datasets/RT/video2/frame4.jpg
+./datasets/RT/video2/frame5.jpg
+./datasets/RT/video2/frame6.jpg
+./datasets/RT/video2/frame7.jpg
+./datasets/RT/video2/frame8.jpg
+./datasets/RT/video2/frame9.jpg
+./datasets/RT/video2/frame10.jpg
